@@ -55,7 +55,7 @@
             <li>
                 <div class="Alinear_imagen">
                     <img
-                        src="/PW2-Parcial1/Img/the-peoples-choice-award-trophy.png"
+                        src="/Img/the-peoples-choice-award-trophy.png"
                         width="100"
                         alt="Premio People's Choice Awards">
                 </div>
@@ -68,7 +68,7 @@
             <li>
                 <div class="Alinear_imagen">
                     <img
-                        src="/PW2-Parcial1/Img/MTV Movie Awards.png"
+                        src="/Img/MTV Movie Awards.png"
                         width="100"
                         alt="MTV Movie Awards">
                 </div>
