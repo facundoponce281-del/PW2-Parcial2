@@ -6,7 +6,7 @@
 
     <title>Son como niños</title>
 
-    <link rel="stylesheet" href="/PW2-Parcial2/estilos/style.css">
+    <link rel="stylesheet" href="/estilos/style.css">
     <link rel="icon" href="/PW2-Parcial2/Img/Logo.jpg">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
