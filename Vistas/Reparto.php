@@ -5,56 +5,56 @@ $Reparto = [
         "actor"=> "adam sandler",
         "personaje" => "Lenny Fader",
         "descripcion" => "Es el protagonista, interpreta a un agente de hollywood exitoso que vuelve a su pueblo natal",
-        "imagen" => "/PW2-Parcial1/Img/adam-sandler.png"
+        "imagen" => "/Img/adam-sandler.png"
     ],
 
     [
         "actor" => "kevin james",
         "personaje" => "Eric Lamonsoff",
         "descripcion" => "Un padre de familia inseguro, su papel aporta mucho humor fisico y su personaje demuestra que todavia puede ser divertido",
-        "imagen" => "/PW2-Parcial1/Img/Kevin James.png"
+        "imagen" => "/Img/Kevin James.png"
     ],
 
     [
         "actor" => "Chris Rock",
         "personaje" => "Kurt Mckenzie",
         "descripcion" => "Interpreta a un hombre trabajador con muchos hijos y muestra el lado mas realista de la vida familiar",
-        "imagen" => "/PW2-Parcial1/Img/Chrisrock.png"
+        "imagen" => "/Img/Chrisrock.png"
     ],
 
     [
         "actor" => "Rob Schneider",
         "personaje" => "Rob Hilliard",
         "descripcion" => "Es un hombre que vive con su esposa mayor y su estilo de vida es muy diferente a la del grupo",
-        "imagen" => "/PW2-Parcial1/Img/Rob-Schneider11.png"
+        "imagen" => "/Img/Rob-Schneider11.png"
     ],
 
     [
         "actor" => "David Spade",
         "personaje" => "Marcus Hilliard",
         "descripcion" => "El soltero del grupo y inmaduro, su personaje genera muchas situaciones incomodas y comicas",
-        "imagen" => "/PW2-Parcial1/Img/David Spade.png"
+        "imagen" => "/Img/David Spade.png"
     ],
 
     [
         "actor" => "Salma Hayek",
         "personaje" => "Esposa de Lenny",
         "descripcion" => "Es la esposa de lenny y representa el contraste entre la vida sostificada de la ciudad y la sencillez del pueblo",
-        "imagen" => "/PW2-Parcial1/Img/Salma-Hayek-2008.png"
+        "imagen" => "/Img/Salma-Hayek-2008.png"
     ],
 
     [
         "actor" => "Maria Bello",
         "personaje" => "Sally Lamonsoff (Esposa de Eric)",
         "descripcion" => "Es la esposa de Eric, es una madre protectora y algo controladora con sus hijos",
-        "imagen" => "/PW2-Parcial1/Img/Maria-Bello-.png"
+        "imagen" => "/Img/Maria-Bello-.png"
     ],
 
     [
         "actor" => "Maya Rudolph",
         "personaje" => "Esposa de Kurt",
         "descripcion" => "Es la esposa de kurt, tiene un caracter fuerte, directa y muy expresiva",
-        "imagen" => "/PW2-Parcial1/Img/Maya-Rudolph-.png"
+        "imagen" => "/Img/Maya-Rudolph-.png"
     ]
 ];
 
