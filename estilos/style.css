@@ -1,0 +1,303 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+     background-color: black;
+    height: 100vh;
+    width: 100%;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.Navegacion {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    padding: 0;
+}
+
+.Enlace {
+    list-style: none;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.Enlace:hover {
+    border: 2px solid #00f0b8;
+    background-color: #005f96;
+    color: white;
+    border-radius: 10px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+.Alinear_imagen{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.Alinear_imagen :hover{
+    transform: scale(1.01);
+}
+.Texto{
+    width: 400px ;
+    margin: 0 auto ;
+    margin-top: 30px;
+    color:white;
+    font-family:'Roboto',
+    sans-serif ;
+    font-weight: 400;
+
+}
+
+h1{
+    color: #ffff00;
+    padding: 15px;
+    margin: 10px;
+    font-family:'Robot',
+    sans-serif ;
+    font-weight: 400;
+}
+
+h2{
+    color: #ffff00;
+    padding: 15px;
+    margin: 10px;
+    font-family:'Roboto',
+    sans-serif ;
+    font-weight: 400;
+}
+.ff {
+    color: white;
+}
+
+li{
+    color: white;
+    font-family:'Roboto',
+    sans-serif ;
+    font-weight: 400;
+}
+.Link{
+    color: #ffff00;
+    text-decoration: none;
+}
+.container-404{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.info-404{
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+    height: 300px;
+    background-color:#3C1406;
+    padding: 20px;
+    border-radius: 10px;
+    line-height: 1.7;
+}
+
+.boton{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #FFFF00;
+    margin: 0 auto;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-top: 30px;
+    transition: all 0.3s;
+}
+.boton:hover{
+    transform: scale(1.02);
+    display: inline-block;
+    color: black;
+    background-color: #fff;
+
+}
+label{
+    color: white;
+    margin: 35px;
+}
+.hidden{
+    display: none;
+}
+
+form {
+    width: 90%;
+    max-width: 500px;
+}
+input {
+    width: 100%;
+border: 1px solid #929292;
+padding: 12px;
+background-color: #121212;
+border-radius: 10px;
+margin-bottom: 10px;
+color: #fff;
+box-sizing: border-box;
+}
+
+form div .boton 
+    form div .boton {
+    width: 100%;
+}
+iframe{
+    margin: 0 auto;
+    display: flex;
+    margin-top: 10%;
+}
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+
+}
+.Social-link{
+    display: inline-block;
+    font-size: 32px;
+    margin: 0 10px;
+    transition:  0.5s;
+    color: #fff;
+
+}
+.fab:hover{
+    transform: translateY(-10px);
+}
+
+
+@media (max-width: 767px){
+
+    nav{
+        flex-direction: column;
+        gap: 15px;
+        padding: 10px;
+    }
+
+    .Navegacion{
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .Enlace{
+        margin: 5px 0;
+    }
+
+    .Texto{
+        width: 90%;
+        font-size: 16px;
+    }
+
+    h1{
+        font-size: 28px;
+        text-align: center;
+    }
+
+    h2{
+        font-size: 22px;
+        text-align: center;
+    }
+
+    form{
+        width: 90%;
+        margin: auto;
+    }
+
+    input,
+    textarea{
+        width: 100%;
+    }
+
+    iframe{
+        width: 100%;
+        height: 300px;
+        margin-top: 20px;
+    }
+
+    .container-404{
+        height: auto;
+        padding: 30px 15px;
+    }
+
+    .info-404{
+        width: 90%;
+        height: auto;
+    }
+
+    footer{
+        flex-direction: column;
+        align-items: center;
+        margin: 40px 15px;
+    }
+
+    .Social-link{
+        font-size: 28px;
+    }
+
+    img{
+        width: 100%;
+        height: auto;
+    }
+    .video{
+        width: 80%;
+        height:auto;
+        margin: auto;
+        display: block;
+    }
+}
+form #motivo {
+    display: block !important;
+    width: 225px;
+    height: 35px;
+    margin-bottom: 10px;
+}
+
+form div .boton {
+    width: 100%;
+}
+
+form .Mensaje {
+    display: block !important;
+    width: 80% !important;
+    height: 80px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    resize: vertical;
+}
+.confirmacion p {
+    color: white;
+}
+
+
+main .mensaje-registro {
+    color: #ffffff !important;
+    font-size: 16px;
+}
+main p {
+    color: white;
+}
