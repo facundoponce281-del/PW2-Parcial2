@@ -12,10 +12,9 @@
 
                 <p class="Texto">El enlace que intentaste abrir no es valido.</p>
 
-                <a href="/PW2-Parcial1/index.php" class="boton">
-                    Volver a la Pagina principal
-                </a>
-
+               <a href="/index.php" class="boton">
+                      Volver a la Página principal
+              </a>
             </div>
 
         </div>
