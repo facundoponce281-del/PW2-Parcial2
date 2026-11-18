@@ -2,9 +2,7 @@
     <section>
 
         <div class="Alinear_imagen">
-            <img src="/PW2-Parcial1/Img/casalago.jpg" width="350" alt="Casa junto al lago">
-            <link rel="stylesheet" href="../estilos/style.css">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+            <img src="/Img/casalago.jpg" width="350" alt="Casa junto al lago">
         </div>
 
          <p class="Texto">
