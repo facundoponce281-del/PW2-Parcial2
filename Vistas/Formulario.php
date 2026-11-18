@@ -1,6 +1,6 @@
 <main>
 
-    <form action="/PW2-Parcial1/index.php?seccion=Confirmacion" method="POST">
+    <form action="/index.php?seccion=Confirmacion" method="POST">
 
         <label class="hidden" for="Nombre">Nombre</label>
         <input type="text" id="Nombre" name="nombre" placeholder="Nombre" required>
