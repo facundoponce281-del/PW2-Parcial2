@@ -19,7 +19,7 @@ $Reparto = [
         "actor" => "Chris Rock",
         "personaje" => "Kurt Mckenzie",
         "descripcion" => "Interpreta a un hombre trabajador con muchos hijos y muestra el lado mas realista de la vida familiar",
-        "imagen" => "/Img/Chrisrock.png"
+        "imagen" => "/Img/chrisrock.png"
     ],
 
     [
@@ -47,7 +47,7 @@ $Reparto = [
         "actor" => "Maria Bello",
         "personaje" => "Sally Lamonsoff (Esposa de Eric)",
         "descripcion" => "Es la esposa de Eric, es una madre protectora y algo controladora con sus hijos",
-        "imagen" => "/Img/Maria-Bello-.png"
+        "imagen" => "/Img/maria-bello-.png"
     ],
 
     [
