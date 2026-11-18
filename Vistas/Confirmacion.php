@@ -92,9 +92,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </p>
 
         <div class="contenedor-boton">
-           <a href="/PW2-Parcial1/index.php?seccion=Formulario" class="boton">
+          <a href="/index.php?seccion=Formulario" class="boton">
                 Volver al formulario
-            </a>
+          </a>
         </div>
 
     <?php else: ?>
@@ -105,10 +105,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <?php echo $error; ?>
         </p>
 
-        <div class="contenedor-boton">
-            <a href="/PW2-Parcial1/index.php?seccion=Formulario" class="boton">
-                Volver al formulario
-            </a>
+           <a href="/index.php?seccion=Formulario" class="boton">
+                   Volver al formulario
+          </a>
         </div>
 
     <?php endif; ?>
