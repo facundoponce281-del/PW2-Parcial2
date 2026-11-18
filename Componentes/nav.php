@@ -54,7 +54,7 @@
         </li>
 
         <li class="Enlace">
-            <a href="/PW2-Parcial2/index.php?seccion=Sobre">Sobre</a>
+            <a href="/index.php?seccion=Sobre">Sobre</a>
         </li>
     </ul>
 </nav>
